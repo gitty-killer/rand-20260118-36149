@@ -1,0 +1,13 @@
+{
+  "project_title": "Support Queue Manager",
+  "goal": "Monitor ticket load and detect backlogs by category.",
+  "entity_name": "ticket",
+  "amount_label": "response_hours",
+  "score_label": "priority_score",
+  "categories": [
+    "billing",
+    "account",
+    "technical",
+    "feedback"
+  ]
+}
